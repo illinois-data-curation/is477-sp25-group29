@@ -1,0 +1,21 @@
+File Name: mortgage_rate_data.txt
+
+Description:
+This dataset provides monthly data on the 30-year fixed mortgage rate from January 2012 to December 2022.
+
+Variables:
+
+1. Date:
+   Description: The specific date of the observation.
+   Data Type: String
+   Format: YYYY-MM-DD
+   Units: N/A
+   Coding Scheme: N/A
+   Special Values: N/A
+
+2. Mortgage Rate (30-Year Fixed):
+   Description:The interest rate on a 30-year fixed-rate mortgage.
+   Data Type: Float
+   Units: Percentage (%)
+   Coding Scheme: N/A
+   Special Values: N/A

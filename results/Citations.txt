@@ -1,7 +1,0 @@
-Citations
-
-Source 1: FRED API
-Federal Reserve Bank of St. Louis. (n.d.). 30-Year Fixed Rate Mortgage Average in the United States [Data set]. FRED Economic Data. Retrieved from https://fred.stlouisfed.org
-
-Source 2: U.S. House Price and Mortgage Rate
-Dataset provider unknown. (n.d.). U.S. House Price and Mortgage Rate [Data set]. Local file: data/US House Price And Mortgage Rate.csv

@@ -1,7 +1,0 @@
-pandas
-requests
-snakemake
-os
-matplotlib
-seaborn
-sklearn

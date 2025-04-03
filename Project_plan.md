@@ -6,7 +6,7 @@ How do changes in unemployment rate affect housing prices in the United States f
 
 ## Week 1: Dataset Integration and Initial Setup
 
-Han's tasks: Acquired the U.S. unemployment rate data from FRED using an API key. The data was converted into a CSV file called unemployment_rate_2012_2022.csv. The script for this acquisition is called dataacquisition.py. As for the dataset on Kaggle, we used this link to download the dataset about U.S. housing prices from 2012 to 2022: Kaggle Housing Prices Dataset.
+Han's tasks: Acquired the U.S. unemployment rate data from FRED using an API key. The data was converted into a CSV file called unemployment_rate_2012_2022.csv. The script for this acquisition is called dataacquisition.py. As for the dataset on Kaggle, we used this link to download the dataset about U.S. housing prices from 2012 to 2022: [Kaggle Housing Prices Dataset](https://www.kaggle.com/datasets/tiffanytong0321/housepriceandmortgage?resource=download.).
 
 During this phase, an initial inspection of the datasets will help identify compatibility issues, such as misaligned data points or inconsistencies in date formats. The team will then implement automated Python scripts, using libraries like Pandas and SQLAlchemy, to load and integrate the datasets. This approach will streamline data import processes and establish a reusable codebase for future updates. The integration step will allow for joining datasets based on common fields, ensuring consistency across time intervals. For instance, matching unemployment rates with housing prices by monthly or yearly data points will lay the foundation for a cohesive analysis. Initial challenges, such as data mismatches or formatting inconsistencies
 

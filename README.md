@@ -288,7 +288,7 @@ Below is a detailed guide for reproducing the project’s results, including dat
 
 #### **Descriptive Metadata**
 - Title: Name of your dataset (e.g., "Impact of Mortgage Rates on Housing Prices").
-- Creator/Author:List the authors (e.g., Linh Pham, Nandil Patel).
+- Creator/Author:List the authors (e.g., Han Huynh).
 - Date:The date the dataset was created or last modified.
 - Keywords/Subjects: List relevant keywords (e.g., mortgage rates, housing prices, inflation, CPI).
 - Description: Brief description of the dataset and its purpose.

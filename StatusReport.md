@@ -46,11 +46,18 @@ Below is an update on each task outlined in the [Project Plan](link-to-project-p
 
 - **Status:** ✅ Completed (April 24)
 - **Artifacts:**
-  - `Analysis.py`: Code for generating plots, correlation matrices, and linear models.
-  - `results/time_series_trends.png`
-  - `results/correlation_heatmap.png`
-  - `results/scatterplots.png`
-  - `results/r2_scores.txt`
+ Artifact File | Description
+dataacquisition.py | Script used to collect and merge unemployment, mortgage, CPI, and housing price data
+results/merged_data.csv | Final cleaned and merged dataset spanning 2012–2022
+exploratory analysis.py | Script that performs exploratory analysis, correlation computation, visualizations, and linear regression
+results/time_series_trends.png | Line plots showing long-term trends for housing price index, CPI, and mortgage rates
+results/correlation_heatmap.png | Heatmap visualizing correlations between mortgage rate, CPI, and housing prices
+results/scatterplots.png | Scatter plots illustrating the relationships between housing prices and key indicators
+results/r2_scores.txt | Text file containing R² scores from regression models on CPI and mortgage rates
+ProjectPlan.md | Initial plan outlining the project scope, methods, and timeline
+StatusReport.md | This status update, detailing current progress and deviations from the original plan
+README.md | Overview of the project, including purpose, installation instructions, and outcomes (to be finalized)
+
 - ## 📊 Key Findings (Updated)
 📈 Time Series Trends (time_series_trends.png)
 

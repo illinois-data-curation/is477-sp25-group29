@@ -1,0 +1,2 @@
+R² - Mortgage Rate Model: 0.0001
+R² - CPI Model: 0.9821

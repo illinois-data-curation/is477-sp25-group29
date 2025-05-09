@@ -59,16 +59,16 @@ In addition data was incorporated to evaluate the impact of inflation on housing
 
 - Processing: The data was extracted, cleaned, and merged with other datasets.
 
-## Dataset 2: 30-Year Fixed Mortgage Rate
+## Dataset 2: 30-Year Unemployment Rate
 - Source: Acquired from FRED (Freddie Mac Primary Mortgage Market Survey)
 
-- Description: This dataset provides weekly data on the average 30-year fixed mortgage rate in the U.S., a key factor in housing affordability.
+- Description: This dataset provides weekly data on the average 30-year unemployment rate in the U.S., a key factor in housing affordability.
 
 - Key Features:
 
     - Date: Weekly frequency
 
-    - Mortgage Rate (%)
+    - Unemployment Rate (%)
 
 - Terms of Use: Publicly available for non-commercial use.
 
@@ -100,7 +100,7 @@ This analysis could be extended by exploring:
 
 - Regional housing price variations across different U.S. states.
 
-- The impact of other economic factors like unemployment rates on housing prices.
+- The impact of other economic factors like market rates on housing prices.
 
 - Incorporating more granular data (e.g., monthly mortgage rates).
 

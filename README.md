@@ -3,8 +3,8 @@
 # 📊 Analysis of Unemployment and Housing Prices in the United States (2012–2022)
 
 ## 🔗 Archival Record  
-**Zenodo Archive**: [https://zenodo.org/records/14401013](https://zenodo.org/records/14401013)  
-**DOI**: [10.5281/zenodo.14401013](https://doi.org/10.5281/zenodo.14401013)
+**Zenodo Archive**: [https://zenodo.org/records/15368883?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjI4NjA1Mzg3LWY4NjgtNGViYS1hNmIzLTc5NmE2Y2ZhNjg2NSIsImRhdGEiOnt9LCJyYW5kb20iOiJlMzQ5N2M3MGRjMTkzNmE3Nzc1YzA4ZTJiZmI1Mjg2OCJ9.nQTlMlDTmnFnvSxhonKB6D3T_NN1MBwuTga_7IVG5lI8Tk7V9fGfACz3iLF_K9yWOAGtqtkyN5ljFPBWoRAdpw](https://zenodo.org/records/15368883)  
+**DOI**: [10.5281/zenodo.15368882](https://doi.org/10.5281/zenodo.14401013)
 
 ---
 

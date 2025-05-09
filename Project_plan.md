@@ -10,7 +10,7 @@ How do changes in unemployment rate affect housing prices in the United States f
 
 ## Team Roles and Responsibilities
 
-As the sole team member, all tasks related to data collection, cleaning, analysis, documentation, and project management will be handled b| Han Huynh. The project will be managed using a structured timeline and a version-controlled repository for reproducibility.
+As the sole team member, all tasks related to data collection, cleaning, analysis, documentation, and project management will be handled by Han Huynh. The project will be managed using a structured timeline and a version-controlled repository for reproducibility.
 
 ## Data Acquisition and Integration
 

@@ -1,0 +1,30 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "name": "Housing Market Dynamics: Unemployment and Housing Prices in the U.S. (2012–2022)",
+    "description": "This dataset integrates national U.S. housing price index (FHFA) and unemployment rates (FRED) from 2012–2022. It supports an analysis of the statistical relationship between labor market conditions and real estate trends over time. The dataset was cleaned, merged, and aligned to monthly granularity.",
+    "url": "https://zenodo.org/records/14401013",
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "DOI",
+      "value": "10.5281/zenodo.14401013"
+    },
+    "creator": {
+      "@type": "Person",
+      "name": "Han Huynh",
+      "email": "hhuyn3@illinois.edu",
+      "affiliation": "University of Illinois Urbana-Champaign"
+    },
+    "datePublished": "2025-05-08",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "keywords": [
+      "housing price index",
+      "unemployment",
+      "economic indicators",
+      "real estate",
+      "FRED",
+      "FHFA"
+    ],
+    "temporalCoverage": "2012-01-01/2022-12-31"
+  }
+  
